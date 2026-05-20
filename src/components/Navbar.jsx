@@ -31,7 +31,7 @@ return (
       {/* Icon phải */}
       <div className="nav-right">
         <a className="linked" href="https://www.linkedin.com/in/thao-nguyen-tran-441a78320/" target="_blank" rel="noreferrer"><FaLinkedin /></a>
-        <a href="https://github.com/thaonguyen20604" target="_blank" rel="noreferrer"><FaGithub /></a>
+        <a href="https://github.com/nguyentran206" target="_blank" rel="noreferrer"><FaGithub /></a>
       </div>
 
       {/* Menu overlay khi mobile */}
