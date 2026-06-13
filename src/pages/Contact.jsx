@@ -21,7 +21,7 @@ export default function ContactSection() {
         <li className="phone"><FaPhone /> <strong>Phone:</strong> <a href="tel:+84354151057">+84 354 151 057</a></li>
         <li className="facebook"><FaFacebook /> <strong>Facebook:</strong>{" "}<a href="https://www.facebook.com/thaonguyencktv" target="_blank" rel="noreferrer">facebook.com/thaonguyencktv</a></li>
         <li className="zalo"><SiZalo /> <strong>Zalo:</strong> <a href="https://zalo.me/0354151057" target="_blank" rel="noreferrer">zalo.me/0354151057</a></li>
-        <li className="linkedin"><FaLinkedin /> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/thao-nguyen-tran-441a78320/" target="_blank" rel="noreferrer">linkedin.com/in/thao-nguyen-tran-441a78320</a></li>
+        <li className="linkedin"><FaLinkedin /> <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/nguyentran-work/" target="_blank" rel="noreferrer">linkedin.com/in/nguyentran-work</a></li>
         <li className="github"><FaGithub /> <strong>GitHub:</strong> <a href="https://github.com/nguyentran206" target="_blank" rel="noreferrer">github.com/nguyentran206</a></li>
         <li className="huggingface"><SiHuggingface /> <strong>HuggingFace:</strong>{" "}<a href="https://huggingface.co/nguyentran206" target="_blank" rel="noreferrer">huggingface.co/nguyentran206</a></li>
         <li className="kaggle"><SiKaggle /> <strong>Kaggle:</strong>{" "}<a href="https://www.kaggle.com/nguyentran20604" target="_blank" rel="noreferrer">kaggle.com/nguyentran20604</a></li>
