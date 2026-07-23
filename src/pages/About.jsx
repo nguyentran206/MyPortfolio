@@ -23,7 +23,7 @@ export default function AboutSection() {
         <p className="about-text">
           I'm <strong>Tran Thi Thao Nguyen</strong>, a Computer Science student at Ton Duc Thang University
           with interests in applied artificial intelligence, data science, data analytics, and software quality assurance.
-          Throughout my studies and internship experience, I have developed a foundation in <strong>machine learning, data analysis, software development, requirement analysis, API systems, and software testing.</strong>.
+          Throughout my studies and internship experience, I have developed a foundation in <strong>machine learning, data analysis, software development, requirement analysis, API systems, and software testing</strong>.
           <br /><br />
           I enjoy exploring how technology can be applied to real-world challenges—from analyzing data 
           and designing intuitive user experiences to developing reliable software systems.
