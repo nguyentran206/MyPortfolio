@@ -21,9 +21,9 @@ export default function AboutSection() {
       <div className="about-right">
         <h2 className="about-title">About Me</h2>
         <p className="about-text">
-          I'm <strong>Tran Thi Thao Nguyen</strong>, a Computer Science student at Ton Duc Thang University.
-          I have a strong interest in <strong>technology, data, and user-centered problem solving</strong>.
-          Throughout my studies, I’ve built a solid foundation across <strong>software development, data analysis, system design, and product thinking</strong>.
+          I'm <strong>Tran Thi Thao Nguyen</strong>, a Computer Science student at Ton Duc Thang University
+          with interests in applied artificial intelligence, data science, data analytics, and software quality assurance.
+          Throughout my studies and internship experience, I have developed a foundation in <strong>machine learning, data analysis, software development, requirement analysis, API systems, and software testing.</strong>.
           <br /><br />
           I enjoy exploring how technology can be applied to real-world challenges—from analyzing data 
           and designing intuitive user experiences to developing reliable software systems.
@@ -37,7 +37,6 @@ export default function AboutSection() {
         
 
         <div className="about-info">
-          <p><strong>Date of Birth:</strong> 20 June 2004</p>
           <p><strong>Current Location:</strong> Nha Be, Ho Chi Minh City, Vietnam</p>
         </div>
 
@@ -65,9 +64,8 @@ export default function AboutSection() {
         <div className="about-section">
           <h3>Career Objective</h3>
           <p>
-            To gain hands-on experience in a dynamic environment where I can apply my skills in 
-            software development, data analysis, system design, and problem-solving. I aim to 
-            contribute to real-world projects while continuously expanding my capabilities across both technical and product-oriented roles.
+            To gain hands-on experience in a professional technology environment where I can apply my skills in 
+            artificial intelligence, data analysis, software development, and software testing to real-world projects.
           </p>
         </div>
 
