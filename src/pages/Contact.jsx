@@ -28,7 +28,7 @@ export default function ContactSection() {
       </ul>
 
       <div className="contact-footer">
-        <p><LuSparkles /> Let's build something amazing together!</p>
+        <p>Let's build something amazing together!</p>
       </div>
     </section>
   );
