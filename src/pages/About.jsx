@@ -22,16 +22,24 @@ export default function AboutSection() {
         <h2 className="about-title">About Me</h2>
         <p className="about-text">
           I'm <strong>Tran Thi Thao Nguyen</strong>, a Computer Science student at Ton Duc Thang University
-          with interests in applied artificial intelligence, data science, data analytics, and software quality assurance.
-          Throughout my studies and internship experience, I have developed a foundation in <strong>machine learning, data analysis, software development, requirement analysis, API systems, and software testing</strong>.
+          focused on <strong>Applied AI, Machine Learning, and Natural Language Processing</strong>.
+          I have hands-on experience building and evaluating NLP/ML pipelines, developing backend APIs,
+          and integrating LLM-based components into AI applications.
           <br /><br />
-          I enjoy exploring how technology can be applied to real-world challenges—from analyzing data 
-          and designing intuitive user experiences to developing reliable software systems.
+
+          My projects cover problems such as <strong>machine translation, Vietnamese text classification,
+          and CV–job matching</strong>, where I focus not only on model development but also on
+          evaluation, system design, and turning AI capabilities into usable applications.
           <br /><br />
-          My goal is to gain hands-on experience in a dynamic working environment where I can contribute,
-          learn from others, and expand my skills across both technical and product-oriented roles.
+
+          During my internship, I also worked with <strong>Python, FastAPI, PostgreSQL, REST APIs,
+          requirement analysis, and software testing</strong>, which strengthened my understanding
+          of how AI features integrate with real software systems.
           <br /><br />
-          <em>I value teamwork, adaptability, and continuous improvement in every project I take on.</em>
+
+          I'm currently seeking opportunities as an <strong>AI Engineer Intern</strong> where I can
+          contribute to applied AI projects while deepening my experience in model evaluation,
+          LLM applications, and production-oriented AI systems.
         </p>
 
         
@@ -45,9 +53,9 @@ export default function AboutSection() {
           <h3>Education</h3>
           <p>
             <strong>Ton Duc Thang University</strong> – Bachelor of Computer Science<br />
-            <strong>GPA:</strong> 7.83 / 10.0 (Current)<br />
+            <strong>GPA:</strong> 8.08 / 10.0 (Current)<br />
             <strong>Study Period:</strong> 2022 – 2026 <br />
-            <strong>Expected Graduation:</strong> 2026<br />
+            <strong>Expected Graduation:</strong> 11/2026<br />
             <strong>Transcript: </strong> 
             <a
               href={transcript}
@@ -64,8 +72,10 @@ export default function AboutSection() {
         <div className="about-section">
           <h3>Career Objective</h3>
           <p>
-            To gain hands-on experience in a professional technology environment where I can apply my skills in 
-            artificial intelligence, data analysis, software development, and software testing to real-world projects.
+            To develop as an AI Engineer by building practical AI applications that combine
+            machine learning, NLP, LLMs, and reliable backend systems. I am particularly
+            interested in solving real-world problems through measurable model evaluation
+            and production-oriented AI development.
           </p>
         </div>
 
@@ -73,10 +83,28 @@ export default function AboutSection() {
         <div className="about-section">
           <h3>Technical Skills</h3>
           <ul>
-            <li><strong>Programming Languages:</strong> Python, C, Java, JavaScript, PHP</li>
-            <li><strong>Frameworks:</strong> TensorFlow, Keras, PyTorch, Apache Spark, Hadoop, React, Fast API</li>
-            <li><strong>Databases:</strong> MySQL, MongoDB, Supabase</li>
-            <li><strong>Tools:</strong> GitHub, Visual Studio Code, Kaggle, Google Colab, Hugging Face, Docker, Figma, Draw.io, Word, Excel, PowerPoint</li>
+            <li>
+              <strong>Programming & Data:</strong> Python, SQL, Pandas, NumPy, PostgreSQL
+            </li>
+
+            <li>
+              <strong>Machine Learning & NLP:</strong> Scikit-learn, PyTorch, TensorFlow,
+              Hugging Face Transformers, ViT5, PhoBERT
+            </li>
+
+            <li>
+              <strong>LLM & AI Applications:</strong> Gemini API, Prompt Engineering,
+              Semantic Similarity, LLM Workflows, LangGraph
+            </li>
+
+            <li>
+              <strong>Backend & APIs:</strong> FastAPI, REST APIs, SQLAlchemy, Pydantic
+            </li>
+
+            <li>
+              <strong>Engineering Tools:</strong> Git, GitHub, Docker, Postman,
+              Google Colab, Kaggle
+            </li>
           </ul>
         </div>
 
@@ -84,8 +112,8 @@ export default function AboutSection() {
         <div className="about-section">
           <h3>Relevant Coursework</h3>
           <p>
-            Data Structures, Artificial Intelligence, Machine Learning, Deep Learning,
-            Natural Language Processing, Massive Data Processing.
+            Data Structures and Algorithms, Artificial Intelligence, Machine Learning,
+            Deep Learning, Natural Language Processing, Data Mining, and Massive Data Processing.
           </p>
         </div>
 
